@@ -1,0 +1,22 @@
+.App {
+  display: flex;
+  height: 100vh;
+}
+
+.sidebar {
+  width: 20%;
+  background-color: #1E1E1E;
+}
+
+.main-area {
+  flex-grow: 1;
+  background-color: #252526;
+}
+
+.status-bar {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: #007ACC;
+  color: white;
+}

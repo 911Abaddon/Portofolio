@@ -1,0 +1,11 @@
+import React from 'react';
+
+const Sidebar = () => {
+    return (
+        <div className="sidebar">
+            {/* Navigation items go here */}
+        </div>
+    );
+}
+
+export default Sidebar;
